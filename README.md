@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Michel Adrian Torrado Roa</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Michel+Adrian+Torrado!;" />
+</h1>
 <h3 align="center">Veo la tecnología como el puente para solucionar diversos problemas sociales. A través de mi formación y experiencia he logrado desarrollar diversas habilidades sociales, comunicativas, de pensamiento lógico y de orientación al logro que me permiten solucionar ágilmente los problemas que se me presentan. Mi objetivo es aplicar mis conocimientos técnicos al diseño y desarrollo de sistemas que mejoren la eficiencia y la comodidad del usuario en diversos contextos sociales y laborales.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@torrado_roa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@torrado_roa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/michel adrian torrado roa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michel adrian torrado roa" height="30" width="40" /></a>
-<a href="https://fb.com/michel adrian torrado roa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="michel adrian torrado roa" height="30" width="40" /></a>
+<a href="https://www.facebook.com/MichelAdrianTorradoRoa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="michel adrian torrado roa" height="30" width="40" /></a>
 <a href="https://instagram.com/torradoroa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="torradoroa" height="30" width="40" /></a>
 <a href="https://discord.gg/https://mee6.xyz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://mee6.xyz/" height="30" width="40" /></a>
 </p>
