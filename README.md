@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Michel+Adrian+Torrado!;" />
 </h1>
-![file](/Banner.jpeg)
+![Banner](<Banner.jpeg>)
 <h3 align="center">Veo la tecnología como el puente para solucionar diversos problemas sociales. A través de mi formación y experiencia he logrado desarrollar diversas habilidades sociales, comunicativas, de pensamiento lógico y de orientación al logro que me permiten solucionar ágilmente los problemas que se me presentan. Mi objetivo es aplicar mis conocimientos técnicos al diseño y desarrollo de sistemas que mejoren la eficiencia y la comodidad del usuario en diversos contextos sociales y laborales.</h3>
 
 <h3 align="left">Connect with me:</h3>
