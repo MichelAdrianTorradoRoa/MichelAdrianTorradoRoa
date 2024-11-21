@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/michel-adrian-torrado-roa-2633941a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michel adrian torrado roa" height="30" width="40" /></a>
 <a href="https://www.facebook.com/MichelAdrianTorradoRoa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="michel adrian torrado roa" height="30" width="40" /></a>
 <a href="https://instagram.com/torradoroa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="torradoroa" height="30" width="40" /></a>
-<a href="https://discord.gg/https://mee6.xyz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://mee6.xyz/" height="30" width="40" /></a>
+<a href="https://discord.gg/https://micheladriantorradoroa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://mee6.xyz/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
