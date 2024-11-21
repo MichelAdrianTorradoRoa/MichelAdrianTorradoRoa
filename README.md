@@ -16,7 +16,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center"> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=micheladriantorradoroao&show_icons=true&locale=en&layout=compact" alt="micheladriantorradoroa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=micheladriantorradoroa&show_icons=true&locale=en&layout=compact" alt="micheladriantorradoroa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=micheladriantorradoroa&show_icons=true&locale=en" alt="micheladriantorradoroa" /></p>
 </p>
